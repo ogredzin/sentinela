@@ -92,7 +92,7 @@ def menu():
         limpar_tela()
         print(f"""{Fore.CYAN}
    ┌─────────────────────────────────────────────────────────────┐
-   │                   SENTINELA V1 - by Crastnet4               │
+   │                         SENTINELA                           │
    └─────────────────────────────────────────────────────────────┘
 {Style.RESET_ALL}
 {Fore.WHITE}[1]{Fore.CYAN} IP Logger (Gerar .bat real)
